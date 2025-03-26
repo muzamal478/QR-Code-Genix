@@ -22,12 +22,12 @@ A responsive and easy-to-use QR code generator built with HTML, CSS, and JavaScr
 
 ## Project Structure
 QRGenix/
-├── index.html        # Main HTML file
-├── style.css     # CSS styles
-├── script.js     # JavaScript logic
-├── logo.png  # Navbar logo
-├── preview.jpeg  # preview
-└── QRabout.jpg   # About section image
+- index.html        # Main HTML file
+- style.css         # CSS styles
+- script.js         # JavaScript logic
+- logo.png          # Navbar logo
+- preview.jpeg      # preview
+- QRabout.jpg       # About section image
 
 ## Setup Locally
 1. Clone the repo:
