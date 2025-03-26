@@ -7,7 +7,7 @@ A responsive QR code generator built with HTML, CSS, and JavaScript.
 A responsive and easy-to-use QR code generator built with HTML, CSS, and JavaScript. Create custom QR codes instantly, download them, or share them with ease.
 
 ## Live Demo
-[https://muzamal478.github.io/QRGenix/](https://muzamal478.github.io/QRGenix/)
+[https://muzamal478.github.io/QR-Code-Geni/](https://muzamal478.github.io/QR-Code-Genix/)
 
 ## Features
 - **Fast Generation**: Generate QR codes in seconds.
@@ -32,7 +32,7 @@ QRGenix/
 ## Setup Locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com/muzamal478/QRGenix.git
+   git clone https://github.com/muzamal478/QR-Code-Genix.git
 Open index.html in a browser.
 
 ## Technologies
