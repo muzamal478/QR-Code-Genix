@@ -32,7 +32,7 @@ QRGenix/
 ## Setup Locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/QRGenix.git
+   git clone https://github.com/muzamal478/QRGenix.git
 Open index.html in a browser.
 
 ## Technologies
